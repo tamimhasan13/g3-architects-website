@@ -37,7 +37,7 @@
     border-radius: 8px;
     border: none;
 }
-main{
+main,footer{
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -227,6 +227,14 @@ main > section{
       margin-top: 20px;
       margin-left: 20px;
     }
+  }
+  /* footer section */
+  .all-right{
+    background-color: #FFF4E7;
+    text-align: center;
+    margin-top: 130px;
+    padding: 38px 0;
+    margin-bottom: 230px;
   }
   /* Medium size device */
 
